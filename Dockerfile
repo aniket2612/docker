@@ -1,3 +1,3 @@
-FROM windows
+FROM ubuntu
 CMD ["echo", "Hello World"]
 
